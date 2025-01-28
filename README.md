@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi , I'm Nivedh K , A passionate self - taught web developer and freelance computer science engineer from India .<br>My passion for web lies with dreaming up ideas and making them come true with elegant interfaces.<br>I love how collaboration and knowledge sharing happened through open source.<br>Any freelance work do reach me :)
+Hi , I'm Nivedh K , <br>
 “Enthusiastic BTech graduate in Artificial Intelligence with a strong foundation in Python, Django, machine learning, and natural language processing. Experienced in building predictive models, implementing algorithms, and developing real-world projects. Adept at using data to solve complex problems and generate actionable insights. Passionate about leveraging analytical and programming skills in a collaborative environment. Seeking a data science internship to gain hands-on experience and contribute to impactful, data-driven solutions.” <br>
 
 ## 🌐 Socials:
